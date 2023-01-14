@@ -1,5 +1,6 @@
 # GetWell
-<img width="961" alt="‏لقطة الشاشة ٢٠٢٣-٠١-١٣ في ٣ ٥٠ ٥٣ ص" src="https://user-images.githubusercontent.com/116816097/212211961-5ae60986-6f63-4409-bede-1d66c85b7d4a.png">
+![تصميم بدون عنوان](https://user-images.githubusercontent.com/116816097/212477467-08ad4626-729d-443b-bce2-ac498c725459.png)
+
 
 ## title2
 ### title 3 

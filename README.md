@@ -1,6 +1,9 @@
 # GetWell 💊
 <img width="60" alt="image" src="https://user-images.githubusercontent.com/116816097/212565483-2326e1a3-1a94-4c0f-b92b-5105cb919bee.png">
 
+<img width="92" alt="image" src="https://user-images.githubusercontent.com/116816097/212568995-3e174231-8c3a-4c6b-9f15-f2b074ecc386.png">
+
+
 ## Big Idea ✨
 > Inclusion
 ### Challenge Statement 🎯

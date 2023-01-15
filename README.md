@@ -4,6 +4,9 @@
 > Inclusion
 ### Challenge Statement
 >Make an inclusive solution that help people with vision problems, blind, to find out their Instructions medications every time the need it. 
+### Solution Concept 
+>A platform for the everyone who need information about their medication they take regularly
+ by searching in the name of the Medication ، And the possibility of using voice over for those who need it.
 #### Technologies & Tools🛠️
 > - SwiftUI
 > - Accessibility voice over

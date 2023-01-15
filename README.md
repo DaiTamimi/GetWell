@@ -36,6 +36,6 @@ https://user-images.githubusercontent.com/116816097/212563648-5807d2ce-3a8e-4dde
 ### Challenge Summary 💁🏻‍♀️
 <img width="1101" alt="‏لقطة الشاشة ٢٠٢٣-٠١-١٥ في ٨ ٤٣ ٤٠ م" src="https://user-images.githubusercontent.com/116816097/212557787-b85d07f1-b79e-4527-8800-d196d8e5be02.png">
 
-### Developers 👩🏻‍💻✨👩🏻‍💻
+### Developers 👩🏻‍💻👩🏻‍💻
 >- Dai Altamimi
 >- Ashwaq Almuzaini

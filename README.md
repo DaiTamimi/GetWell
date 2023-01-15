@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/116816097/212563648-5807d2ce-3a8e-4dde
 <img width="1101" alt="‏لقطة الشاشة ٢٠٢٣-٠١-١٥ في ٨ ٤٣ ٤٠ م" src="https://user-images.githubusercontent.com/116816097/212557787-b85d07f1-b79e-4527-8800-d196d8e5be02.png">
 
 ### Developers 👩🏻‍💻👩🏻‍💻
->- Dai Altamimi
+>- Dai Altamimi : www.linkedin.com/in/dai-al-tamimi-a041b2240
 >- Ashwaq Almuzaini
 
-## Thank you🫶🏼
+## Thank you 🫶🏼

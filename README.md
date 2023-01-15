@@ -3,11 +3,11 @@
 ## Big Idea
 > Inclusion
 ### Challenge Statement
-> "GetWell" An App that  provides a way for [Emma] and everyone who want(s) to [ lower the risk of losing their Instructions medications every time the need it] by [ offering them a list of their medication they take regularly  ] and [ Support voiceover and the search bar ]
+>Make an inclusive solution that help people with vision problems, blind, to find out their Instructions medications every time the need it. 
 #### Technologies & Tools🛠️
 > - SwiftUI
 > - Accessibility voice over
-> - Localization
+> - Localization (AR)
 ### Demo of the App 🎥
 
 

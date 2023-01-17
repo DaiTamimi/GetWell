@@ -11,6 +11,7 @@ struct ContentView: View {
     @State private var showingCredits2 = false
     @State private var showingCredits3 = false
     @State private var showingCredits4 = false
+    @State private var showingCredits5 = false
     @State private var name: String = ""
     
     var body: some View {
@@ -282,8 +283,9 @@ struct ContentView: View {
                                 }
                                 
                                 
-//Fourth medication
                             }
+                            
+//Fourth medication
                             ZStack{
                                 
                                 RoundedRectangle(cornerRadius: 20)
@@ -355,6 +357,80 @@ struct ContentView: View {
                                 
                                 
                             }
+                            
+//Fifth medication
+                            ZStack{
+                                
+                                RoundedRectangle(cornerRadius: 20)
+                                
+                                    .foregroundColor(Color.white)
+                                    .frame(width: 348, height: 120)
+                                    .foregroundColor(.gray)
+                                    .shadow(radius: 2.4)
+                                
+                                HStack(spacing:50){
+                                    VStack(alignment:.leading){
+                                        
+                                        Text("Scopinal")
+                                            .multilineTextAlignment(.trailing)
+                                            .bold()
+                                            .font(Font.title3)
+                                            .foregroundColor(Color("Color"))
+                                        Text("Category Of Scopinal")
+                                            .font(Font.callout)
+                                        Text("spasmolytic drugs")
+                                            .font(Font.callout)
+                                        
+                                        Button("Use For") {
+                                            showingCredits5.toggle()
+                                            
+                                        }
+                                        .sheet(isPresented: $showingCredits5) {
+                                            VStack(alignment:.center,spacing:17){
+                                                Image("Scopinal 1")
+                                                VStack(alignment:.leading,spacing:9){
+                                                    Text("What to Know Before Use")
+                                                        .font(.title3)
+                                                        .bold()
+                                                        .foregroundColor(Color("Color"))
+                                                    
+                                                    
+                                                    Text("•This medicine is intended for adults and children 6 years and older.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                    Text("•Take with or without food.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                        .font(Font.callout)
+                                                    Text("•Swallow tablets whole. Do not break or chew.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                        .font(Font.callout)
+                                                    Text("•Doses may be changed in special conditions so always follow your doctor's or pharmacist's instructions.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                        .font(Font.callout)
+                                                    Text("•If you take more than you should, talk to a doctor or go to the hospital straight away.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                        .font(Font.callout)
+                                                    Text("•Do not take a double dose (two doses at the same time) to make up for the forgotten dose.")
+                                                        .font(.system(size: 13,weight: .regular))
+                                                        .font(Font.callout)
+                                                    
+                                                    
+                                                }
+                                                .presentationDetents([.medium, .large])
+                                                .padding(.horizontal,20)
+                                            }
+                                            
+                                        }
+                                        
+                                        
+                                    }
+                                    
+                                    Image("Scopinal")
+                                }
+                                
+                                
+                                
+                            }
+                            
                         }
                     }
                     

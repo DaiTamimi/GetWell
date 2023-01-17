@@ -9,6 +9,7 @@
 "Mentex"="منتكس";
 "Defonase"="ديفونيز";
 "Relaxon"="ريلاكسون";
+"Scopinal"="سكوبينال";
 
 
 //الجمل المكرره
@@ -68,3 +69,16 @@
 "•Doses may change from patient to patient based on your age, your medical condition, and whether or not you are taking other medicines, so always follow your physician's instruction"="•قد تتغير الجرعات من مريض لآخر بناءً على عمرك وحالتك الطبية وما إذا كنت تتناول أدوية أخرى أم لا، لذلك اتبع دائمًا تعليمات طبيبك.";
 
 "•The usual adult dosage is one to two capsules to be taken 3 times daily."="•الجرعة المعتادة للبالغين هي كبسولة إلى كبسولتين 3 مرات يوميًا.";
+
+//سكوبينال
+
+"Category Of Scopinal"="ينتمي سكوبينال أقراص إلى";
+
+"spasmolytic drugs"="الأدوية المضادة للتقلصات";
+
+"•This medicine is intended for adults and children 6 years and older."="•هذا الدواء مخصص للبالغين والأطفال بعمر 6 سنوات فما فوق.";
+
+"•Swallow tablets whole. Do not break or chew."="•أبتلع الأقراص كاملة لا تكسر أو تمضغ.";
+
+"•Take with or without food."="•خذ مع أو بدون الطعام.";
+

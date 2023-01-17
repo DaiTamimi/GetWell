@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  GetWell
+
+  Created by Dai Fahad ALTamimi on 17/01/2023.
+  
+*/
+"Panadol"="بنادول";
+"Mentex"="منتكس";
+"Defonase"="ديفونيز";
+"Relaxon"="ريلاكسون";
+
+
+//الجمل المكرره
+"Use For"="دواعي الاستعمال";
+"What to Know Before Use"="مالذي يجب معرفته قبل الاستعمال";
+
+"•Shake well before uses"="•يرج جيدا قبل الاستعمال.";
+
+"•If you forget to take a dose, take it as soon as you remember it unless it is nearly time for your next dose."="•إذا نسيت أن تأخذ الجرعة، فتناولها بمجرد أن تتذكرها ما لم يكن الوقت قد حان للجرعة التالية";
+
+"•Doses may be changed in special conditions so always follow your doctor's or pharmacist's instructions."="•يمكن تغير الجرعات في ظروف خاصة، لذلك اتبع دائمًا تعليمات طبيبك أو الصيدلي.";
+
+"•If you take more than you should, talk to a doctor or go to the hospital straight away."="•إذا كنت تأخذ أكثر مما ينبغي من الدواء، تحدث إلى الطبيب أو اذهب إلى المستشفى على الفور.";
+
+"•Do not take a double dose (two doses at the same time) to make up for the forgotten dose."="•لا تأخذ جرعة مضاعفة (جرعتين في نفس الوقت) لتعويض الجرعة المنسية.";
+
+//الجمل الغير المكرره
+
+//بنادول
+"Category Of Panadol"="ينتمي بنادول أقراص إلى";
+
+"Analgesic & Antipyretic"="المسكنات وخافضات الحرارة";
+
+"•Children under 10 years: Do not give Paracetamol tablets to children below 10 years of age."=".الأطفال أقل من 10 سنوات: لا تعط أقراص الباراسيتامول للأطفال دون سن 10 سنوات•";
+
+"•Do not give this medication to children for more than 3 days without talking to the doctor first."="•لا تعطي هذا الدواء للأطفال أكثر من 3 أيام دون التحدث مع الطبيب أولا.";
+
+"•Take a tablet with or without food."="•تناول الأقراص مع الطعام أو بدونه.";
+
+"•Take a tablet with a full glass of water."="•خذ القرص مع كوب كامل من الماء.";
+
+//منتكس
+"Category Of Mentex Syrup"="ينتمي منتكس شراب إلى";
+
+"Cough Syrup"="أدوية الكحة والسعال";
+
+"•Always take this medicine exactly as your doctor or pharmacist has told you."="•دائما تناول هذا الدواء تماما كما أخبرك طبيبك أو الصيدلي.";
+
+"•The average doses:"="•متوسط الجرعات:";
+
+"1-Adults: 1 teaspoonful 3 times daily or as directed by a physician."="•الكبار: 1 ملعقة صغيرة 3 مرات يوميا او حسب ارشادات الطبيب.";
+
+"2-Children (6 years and above): according to age, ½ to one teaspoonful, 2-3 times daily or as directed by a physician."="•الأطفال (6 سنوات فأكثر): حسب العمر والوزن نصف ملعقة صغيرة 2-3 مرات يومياً أو حسب إرشادات الطبيب.";
+
+//ديفونيز
+"Category Of Defonase Syrup"="ينتمي ديفوناز شراب إلى";
+
+"Allergy & Cold Drugs"="أدوية البرد والحساسية";
+
+"•It does not matter if you take loratadine/pseudoephedrine before or after food."="•لا يهم إذا كنت تتناول لوراتادين / سودوإيفيدرين قبل أو بعد الطعام.";
+
+//ريلاكسون
+"Category Of Relaxon"="ينتمي ريلاكسون كبسول إلى";
+
+"Muscle Relaxant Drugs"="باسط العضلات";
+
+"•Doses may change from patient to patient based on your age, your medical condition, and whether or not you are taking other medicines, so always follow your physician's instruction"="•قد تتغير الجرعات من مريض لآخر بناءً على عمرك وحالتك الطبية وما إذا كنت تتناول أدوية أخرى أم لا، لذلك اتبع دائمًا تعليمات طبيبك.";
+
+"•The usual adult dosage is one to two capsules to be taken 3 times daily."="•الجرعة المعتادة للبالغين هي كبسولة إلى كبسولتين 3 مرات يوميًا.";

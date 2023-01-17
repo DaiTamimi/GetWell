@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  GetWell
+
+  Created by Dai Fahad ALTamimi on 17/01/2023.
+  
+*/
+"Use For"="Use For";
+"What to Know Before Use"="What to Know Before Use";
+
+//The first medication
+"Panadol"="Panadol";
+
+"Category Of Panadol"="Category Of Panadol";
+
+"Analgesic & Antipyretic"="Analgesic & Antipyretic";
+
+"•Children under 10 years: Do not give Paracetamol tablets to children below 10 years of age."="•Children under 10 years: Do not give Paracetamol tablets to children below 10 years of age.";
+
+"•Do not give this medication to children for more than 3 days without talking to the doctor first."="•Do not give this medication to children for more than 3 days without talking to the doctor first.";
+
+"•Take a tablet with or without food."="•Take a tablet with or without food.";
+
+"•Take a tablet with a full glass of water."="•Take a tablet with a full glass of water.";
+
+"•Do not take a double dose (two doses at the same time) to make up for the forgotten dose."="•Do not take a double dose (two doses at the same time) to make up for the forgotten dose.";
+
+//The second medicine
+"Mentex"="Mentex";
+
+"Category Of Mentex Syrup"="Category Of Mentex Syrup";
+
+"Cough Syrup"="Cough Syrup";
+
+"•Always take this medicine exactly as your doctor or pharmacist has told you."="•Always take this medicine exactly as your doctor or pharmacist has told you.";
+
+"•Shake well before uses"="•Shake well before uses";
+
+"•The average doses:"="•The average doses:";
+
+"1-Adults: 1 teaspoonful 3 times daily or as directed by a physician."="1-Adults: 1 teaspoonful 3 times daily or as directed by a physician.";
+
+"2-Children (6 years and above): according to age, ½ to one teaspoonful, 2-3 times daily or as directed by a physician."="2-Children (6 years and above): according to age, ½ to one teaspoonful, 2-3 times daily or as directed by a physician.";
+
+"•If you forget to take a dose, take it as soon as you remember it unless it is nearly time for your next dose."="•If you forget to take a dose, take it as soon as you remember it unless it is nearly time for your next dose.";
+
+//The third medicine
+"Defonase"="Defonase";
+
+"Category Of Defonase Syrup"="Category Of Defonase Syrup";
+
+"Allergy & Cold Drugs"="Allergy & Cold Drugs";
+
+"•It does not matter if you take loratadine/pseudoephedrine before or after food."="•It does not matter if you take loratadine/pseudoephedrine before or after food.";
+
+"•Doses may be changed in special conditions so always follow your doctor's or pharmacist's instructions."="•Doses may be changed in special conditions so always follow your doctor's or pharmacist's instructions.";
+
+"•If you take more than you should, talk to a doctor or go to the hospital straight away."="•If you take more than you should, talk to a doctor or go to the hospital straight away.";
+
+
+//Fourth medication
+"Relaxon"="Relaxon";
+
+"Category Of Relaxon"="Category Of Relaxon";
+
+"Muscle Relaxant Drugs"="Muscle Relaxant Drugs";
+
+"•Doses may change from patient to patient based on your age, your medical condition, and whether or not you are taking other medicines, so always follow your physician's instruction"="•Doses may change from patient to patient based on your age, your medical condition, and whether or not you are taking other medicines, so always follow your physician's instruction";
+
+"•The usual adult dosage is one to two capsules to be taken 3 times daily."="•The usual adult dosage is one to two capsules to be taken 3 times daily.";

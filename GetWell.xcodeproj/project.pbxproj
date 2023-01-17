@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7CFB54F92976BC3F0049A829 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7CFB54FB2976BC3F0049A829 /* Localizable.strings */; };
+		7CFB54FE2976BD850049A829 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CFB54FD2976BD850049A829 /* SplashScreenView.swift */; };
 		7CFC516E296F347E002EB523 /* GetWellApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CFC516D296F347E002EB523 /* GetWellApp.swift */; };
 		7CFC5170296F347E002EB523 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CFC516F296F347E002EB523 /* ContentView.swift */; };
 		7CFC5172296F347F002EB523 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CFC5171296F347F002EB523 /* Assets.xcassets */; };
@@ -14,6 +16,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7CFB54FA2976BC3F0049A829 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7CFB54FC2976BC420049A829 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7CFB54FD2976BD850049A829 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		7CFC516A296F347E002EB523 /* GetWell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GetWell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CFC516D296F347E002EB523 /* GetWellApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetWellApp.swift; sourceTree = "<group>"; };
 		7CFC516F296F347E002EB523 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +40,7 @@
 		7CFC5161296F347E002EB523 = {
 			isa = PBXGroup;
 			children = (
+				7CFB54FB2976BC3F0049A829 /* Localizable.strings */,
 				7CFC516C296F347E002EB523 /* GetWell */,
 				7CFC516B296F347E002EB523 /* Products */,
 			);
@@ -53,6 +59,7 @@
 			children = (
 				7CFC516D296F347E002EB523 /* GetWellApp.swift */,
 				7CFC516F296F347E002EB523 /* ContentView.swift */,
+				7CFB54FD2976BD850049A829 /* SplashScreenView.swift */,
 				7CFC5171296F347F002EB523 /* Assets.xcassets */,
 				7CFC5173296F347F002EB523 /* Preview Content */,
 			);
@@ -109,6 +116,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = 7CFC5161296F347E002EB523;
 			productRefGroup = 7CFC516B296F347E002EB523 /* Products */;
@@ -126,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CFC5175296F347F002EB523 /* Preview Assets.xcassets in Resources */,
+				7CFB54F92976BC3F0049A829 /* Localizable.strings in Resources */,
 				7CFC5172296F347F002EB523 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,10 +148,23 @@
 			files = (
 				7CFC5170296F347E002EB523 /* ContentView.swift in Sources */,
 				7CFC516E296F347E002EB523 /* GetWellApp.swift in Sources */,
+				7CFB54FE2976BD850049A829 /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7CFB54FB2976BC3F0049A829 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7CFB54FA2976BC3F0049A829 /* ar */,
+				7CFB54FC2976BC420049A829 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		7CFC5176296F347F002EB523 /* Debug */ = {
